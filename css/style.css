@@ -24,7 +24,6 @@ a:hover,
   display: flex;
   max-width: 1200px;
   margin: 0 auto;
-  box-shadow: 5px 9px 20px rgba(0.0.0.15);
   border-radius: 4px;
 }
 
@@ -156,7 +155,16 @@ a:hover,
   font-weight: 400;
   line-height: 24px;
 }
-
+.projects-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ac4f11;
+}
+.projects-link:hover,
+:focus {
+  color: #ff6600;
+}
 .education-box {
   margin-bottom: 20px;
 }
