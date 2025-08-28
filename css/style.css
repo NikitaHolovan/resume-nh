@@ -207,6 +207,9 @@ a:hover,
 .professional-company {
   color: #f1670b;
 }
+.description {
+ margin-bottom: 10px;
+}
 
 .professional-time {
   color: #a8a8a8;
@@ -217,6 +220,7 @@ a:hover,
 
 .professional-divider {
   color: #070707;
+  margin-bottom: 10px;
 }
 
 .professional-duties {
